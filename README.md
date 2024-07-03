@@ -1,2 +1,2 @@
-# participation_m10
-Exercise for participation point in module 10.
+# participation_m09
+Exercise for participation point in module 9.
